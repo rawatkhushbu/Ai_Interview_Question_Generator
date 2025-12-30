@@ -2,7 +2,7 @@
 
 An AI-powered web application that helps users prepare for technical interviews by generating role-based and skill-based interview questions using Large Language Models.
 
-🌐 Live App: (paste your Streamlit Cloud link here)
+🌐 Live App: (https://aiinterviewquestiongenerator-rysbn9jcatuxaugglis6cs.streamlit.app/)
 
 📌 About the Project
 
